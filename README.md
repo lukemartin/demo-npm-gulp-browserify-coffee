@@ -9,5 +9,5 @@ App code is written in CoffeeScript, and is compiled to app.js with sourcemaps.
 
 To run:
 
-  npm install
-  gulp
+    npm install
+    gulp
